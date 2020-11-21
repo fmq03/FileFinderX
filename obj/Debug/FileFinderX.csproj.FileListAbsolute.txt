@@ -1,0 +1,12 @@
+C:\Users\tsg\source\repos\FileFinderX\bin\Debug\FileFinderX.exe
+C:\Users\tsg\source\repos\FileFinderX\bin\Debug\FileFinderX.pdb
+C:\Users\tsg\source\repos\FileFinderX\obj\Debug\FileFinderX.csprojAssemblyReference.cache
+C:\Users\tsg\source\repos\FileFinderX\obj\Debug\FileFinderX.Fdifference.resources
+C:\Users\tsg\source\repos\FileFinderX\obj\Debug\FileFinderX.Fmain.resources
+C:\Users\tsg\source\repos\FileFinderX\obj\Debug\FileFinderX.Fsearch.resources
+C:\Users\tsg\source\repos\FileFinderX\obj\Debug\FileFinderX.Fsimilar.resources
+C:\Users\tsg\source\repos\FileFinderX\obj\Debug\FileFinderX.Properties.Resources.resources
+C:\Users\tsg\source\repos\FileFinderX\obj\Debug\FileFinderX.csproj.GenerateResource.cache
+C:\Users\tsg\source\repos\FileFinderX\obj\Debug\FileFinderX.csproj.CoreCompileInputs.cache
+C:\Users\tsg\source\repos\FileFinderX\obj\Debug\FileFinderX.exe
+C:\Users\tsg\source\repos\FileFinderX\obj\Debug\FileFinderX.pdb
